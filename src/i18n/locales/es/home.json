@@ -1,0 +1,13 @@
+{
+  "title": "Inicio",
+  "greeting": "¡Hola, {{name}}!",
+  "today_sales": "Ventas de Hoy",
+  "total_orders": "Pedidos Totales",
+  "new_messages": "Nuevos Mensajes",
+  "recent_activity": "Actividad Reciente",
+  "view_all": "Ver Todo",
+  "no_orders": "Sin pedidos aún",
+  "quick_actions": "Acciones Rápidas",
+  "profile": "Perfil",
+  "notifications": "Notificaciones"
+}

@@ -1,0 +1,15 @@
+{
+  "settings": "Settings",
+  "language": "Language",
+  "theme": "Theme",
+  "dark_mode": "Dark Mode",
+  "notifications_enabled": "Enable Notifications",
+  "privacy": "Privacy",
+  "terms": "Terms & Conditions",
+  "about": "About",
+  "version": "Version",
+  "reset": "Reset Settings",
+  "save_changes": "Save Changes",
+  "settings_saved": "Settings saved successfully!",
+  "select_language": "Select Language"
+}

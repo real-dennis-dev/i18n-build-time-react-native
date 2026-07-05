@@ -1,0 +1,13 @@
+{
+  "title": "Home",
+  "greeting": "Hello, {{name}}!",
+  "today_sales": "Today's Sales",
+  "total_orders": "Total Orders",
+  "new_messages": "New Messages",
+  "recent_activity": "Recent Activity",
+  "view_all": "View All",
+  "no_orders": "No orders yet",
+  "quick_actions": "Quick Actions",
+  "profile": "Profile",
+  "notifications": "Notifications"
+}

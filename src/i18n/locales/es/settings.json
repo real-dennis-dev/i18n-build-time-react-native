@@ -1,0 +1,15 @@
+{
+  "settings": "Ajustes",
+  "language": "Idioma",
+  "theme": "Tema",
+  "dark_mode": "Modo Oscuro",
+  "notifications_enabled": "Activar Notificaciones",
+  "privacy": "Privacidad",
+  "terms": "Términos y Condiciones",
+  "about": "Acerca de",
+  "version": "Versión",
+  "reset": "Restablecer Ajustes",
+  "save_changes": "Guardar Cambios",
+  "settings_saved": "¡Ajustes guardados exitosamente!",
+  "select_language": "Seleccionar Idioma"
+}

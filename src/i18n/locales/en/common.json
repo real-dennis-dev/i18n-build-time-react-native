@@ -1,0 +1,13 @@
+{
+  "app_name": "My Awesome App",
+  "welcome": "Welcome back!",
+  "loading": "Loading...",
+  "error": "Something went wrong",
+  "retry": "Retry",
+  "cancel": "Cancel",
+  "save": "Save",
+  "delete": "Delete",
+  "edit": "Edit",
+  "search": "Search",
+  "no_results": "No results found"
+}

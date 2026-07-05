@@ -1,0 +1,13 @@
+{
+  "app_name": "Mi Aplicación Increíble",
+  "welcome": "¡Bienvenido de nuevo!",
+  "loading": "Cargando...",
+  "error": "Algo salió mal",
+  "retry": "Reintentar",
+  "cancel": "Cancelar",
+  "save": "Guardar",
+  "delete": "Eliminar",
+  "edit": "Editar",
+  "search": "Buscar",
+  "no_results": "No se encontraron resultados"
+}

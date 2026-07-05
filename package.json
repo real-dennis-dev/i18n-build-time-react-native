@@ -9,10 +9,14 @@
     "react-native": "0.86.0"
   },
   "scripts": {
-    "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web"
+    "expo:start": "expo start",
+    "expo:android": "expo start --android",
+    "expo:ios": "expo start --ios",
+    "web": "expo start --web",
+    "build:i18n": "node src/i18n/build/i18n-builder.js",
+    "start": "npm run build:i18n && react-native start",
+    "ios": "npm run build:i18n && react-native run-ios",
+    "android": "npm run build:i18n && react-native run-android"
   },
   "private": true
 }
